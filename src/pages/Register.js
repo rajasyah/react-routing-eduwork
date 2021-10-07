@@ -2,8 +2,8 @@ import React from "react";
 
 const Register = () => {
   return (
-    <div>
-      <p>This page Register</p>
+    <div className="h-96 flex justify-center items-center ">
+      <p className="font-bold text-xl ">Register Page</p>
     </div>
   );
 };
